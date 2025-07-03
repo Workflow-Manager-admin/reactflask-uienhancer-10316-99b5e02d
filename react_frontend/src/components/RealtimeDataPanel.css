@@ -1,0 +1,17 @@
+.realtime-panel {
+  margin: 2rem auto;
+  padding: 2rem;
+  background: var(--bg-secondary);
+  border-radius: 10px;
+  max-width: 400px;
+  box-shadow: 0 1px 5px rgba(25, 118, 210, 0.06);
+  text-align: center;
+}
+.realtime-panel h2 {
+  color: #1976D2;
+  margin-bottom: 1.1rem;
+}
+.realtime-panel__timestamp {
+  font-size: 1.1rem;
+  color: #424242;
+}
