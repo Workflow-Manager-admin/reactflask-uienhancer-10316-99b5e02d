@@ -1,7 +1,7 @@
 .header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: 0 2rem;
   height: 60px;
   background: var(--bg-secondary);
@@ -15,31 +15,4 @@
   letter-spacing: 2px;
 }
 
-.header__nav {
-  display: flex;
-  gap: 1.5rem;
-}
-
-.header__nav-link {
-  color: var(--text-primary);
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 1rem;
-  transition: color 0.2s;
-  position: relative;
-}
-.header__nav-link:after {
-  content: '';
-  display: block;
-  width: 0;
-  height: 2px;
-  background: #FF4081;
-  transition: width .2s;
-  margin-top: 4px;
-}
-.header__nav-link:hover {
-  color: #1976D2;
-}
-.header__nav-link:hover:after {
-  width: 100%;
-}
+/* Remove nav styles for a minimal header */
