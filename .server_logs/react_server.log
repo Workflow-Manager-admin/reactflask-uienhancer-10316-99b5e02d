@@ -31,3 +31,243 @@ src/components/RealtimeDataPanel.js
   Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
 
 webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+WARNING in [eslint] 
+src/components/CricketScenarioGenerator.js
+  Line 40:10:  'formTouched' is assigned a value but never used  no-unused-vars
+
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/components/CricketScenarioGenerator.js 6:0-137
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in ./src/components/CricketScenarioGenerator.js 7:0-113
+Module not found: Error: Can't resolve 'chart.js' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in ./src/components/CricketScenarioGenerator.js 8:0-50
+Module not found: Error: Can't resolve 'react-chartjs-2' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in [eslint] 
+src/components/Layout.js
+  Line 50:43:  'Dashboard' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 4 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> Managed item /home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/react-chartjs-2 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 15 hidden lines
+
+WARNING in [eslint] 
+src/components/CricketScenarioGenerator.js
+  Line 40:10:  'formTouched' is assigned a value but never used  no-unused-vars
+
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/components/CricketScenarioGenerator.js 6:0-137
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in ./src/components/CricketScenarioGenerator.js 7:0-113
+Module not found: Error: Can't resolve 'chart.js' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in ./src/components/CricketScenarioGenerator.js 8:0-50
+Module not found: Error: Can't resolve 'react-chartjs-2' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in [eslint] 
+src/components/Layout.js
+  Line 50:43:  'Dashboard' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 4 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+WARNING in [eslint] 
+src/components/CricketScenarioGenerator.js
+  Line 40:10:  'formTouched' is assigned a value but never used  no-unused-vars
+
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/components/CricketScenarioGenerator.js 6:0-137
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in ./src/components/CricketScenarioGenerator.js 7:0-113
+Module not found: Error: Can't resolve 'chart.js' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in ./node_modules/react-chartjs-2/dist/index.js 2:0-185
+Module not found: Error: Can't resolve 'chart.js' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/react-chartjs-2/dist'
+
+ERROR in [eslint] 
+src/components/Layout.js
+  Line 50:43:  'Dashboard' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 4 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+WARNING in [eslint] 
+src/components/CricketScenarioGenerator.js
+  Line 40:10:  'formTouched' is assigned a value but never used  no-unused-vars
+
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/components/CricketScenarioGenerator.js 6:0-137
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in ./src/components/CricketScenarioGenerator.js 7:0-113
+Module not found: Error: Can't resolve 'chart.js' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in ./node_modules/react-chartjs-2/dist/index.js 2:0-185
+Module not found: Error: Can't resolve 'chart.js' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/react-chartjs-2/dist'
+
+ERROR in [eslint] 
+src/components/Layout.js
+  Line 50:43:  'Dashboard' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 4 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+WARNING in ./node_modules/chart.js/dist/chart.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js/dist/chart.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js/dist/chart.js.map'
+
+WARNING in [eslint] 
+src/components/CricketScenarioGenerator.js
+  Line 40:10:  'formTouched' is assigned a value but never used  no-unused-vars
+
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/components/CricketScenarioGenerator.js 6:0-137
+Module not found: Error: Can't resolve 'recharts' in '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/src/components'
+
+ERROR in [eslint] 
+src/components/Layout.js
+  Line 50:43:  'Dashboard' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 2 errors and 2 warnings
+Compiling...
+Failed to compile.
+
+[eslint] 
+src/components/Layout.js
+  Line 50:43:  'Dashboard' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+WARNING in ./node_modules/chart.js/dist/chart.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js/dist/chart.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js/dist/chart.js.map'
+
+WARNING in [eslint] 
+src/components/CricketScenarioGenerator.js
+  Line 40:10:  'formTouched' is assigned a value but never used  no-unused-vars
+
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+ERROR in [eslint] 
+src/components/Layout.js
+  Line 50:43:  'Dashboard' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+
+webpack compiled with 1 error and 2 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js/dist/chart.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js/dist/chart.js.map'
+
+[eslint] 
+src/components/CricketScenarioGenerator.js
+  Line 40:10:  'formTouched' is assigned a value but never used  no-unused-vars
+
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/chart.js/dist/chart.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js/dist/chart.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactflask-uienhancer-10316-99b5e02d/react_frontend/node_modules/chart.js/dist/chart.js.map'
+
+WARNING in [eslint] 
+src/components/CricketScenarioGenerator.js
+  Line 40:10:  'formTouched' is assigned a value but never used  no-unused-vars
+
+src/components/Dashboard.js
+  Line 11:17:  'setStats' is assigned a value but never used  no-unused-vars
+
+src/components/RealtimeDataPanel.js
+  Line 10:10:  'timestamp' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 2 warnings

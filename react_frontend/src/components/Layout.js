@@ -2,14 +2,14 @@ import React, { useState } from "react";
 import Header from "./Header";
 import Sidebar from "./Sidebar";
 import Footer from "./Footer";
-import Dashboard from "./Dashboard";
+import CricketScenarioGenerator from "./CricketScenarioGenerator"; // NEW MAIN DASHBOARD
 import DynamicForm from "./DynamicForm";
 import RealtimeDataPanel from "./RealtimeDataPanel";
 import "./Layout.css";
 
 // Simple in-memory "router" for demo purposes
 const routes = {
-  "/": <Dashboard />,
+  "/": <CricketScenarioGenerator />,
   "/forms": <DynamicForm />,
   "/realtime": <RealtimeDataPanel />
 };
@@ -47,7 +47,7 @@ function Layout() {
       <div className="layout-main">
         <Sidebar />
         <main className="main-content">
-          {routes[path] ? routes[path] : <Dashboard />}
+          {routes[path] ? routes[path] : <CricketScenarioGenerator />}
         </main>
       </div>
       <Footer />
